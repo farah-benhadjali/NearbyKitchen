@@ -1,0 +1,51 @@
+.text-green {
+    color: #52942F !important;
+}
+
+.text-yellow {
+    color: #FFF2CD !important;
+}
+
+.text-red {
+    color: #AB465E !important;
+}
+
+.text-black {
+    color: #0c0c0c !important;
+} 
+.text-bleu {
+    color: #9489f0 !important;
+}
+
+.bg-yellow {
+    background-color: #FFF2CD !important;
+}
+
+.bg-green {
+    background-color: #BFFF7B !important;
+}
+
+.bg-red {
+    background-color: #AB465E !important;
+}
+
+.back-arrow {
+    cursor: pointer;
+}
+
+.rounded-btn {
+    border-radius: 3rem !important;
+}
+
+.social-media-icon {
+    height: 3rem;
+    cursor: pointer;
+}
+
+.min-vh-93 {
+    min-height: 93vh;
+}
+
+input::placeholder {
+    color: #52942F !important;
+}
